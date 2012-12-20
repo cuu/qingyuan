@@ -1,0 +1,1 @@
+<div id="copyright">Copyright &copy; <a href="<?php $this->options->siteurl(); ?>"><?php $this->options->title(); ?></a> | Theme by <a href="http://acyang.onshow.net" target="_blank">AC Yang</a> | Power by <a href="http://www.typecho.org">Typecho)))</a></div>
